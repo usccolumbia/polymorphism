@@ -1,4 +1,4 @@
-Please refer to the branch revise1 for updated codes. </br>
+**Please refer to the branch revise1 for updated codes.** </br>
 This github repo is for our paper **Data-Driven Topological Analysis of Polymorphic Crystal Structures** </br>
 
 - The dataset is available in dataset folder and its name is dataset.csv.
